@@ -1,2 +1,4 @@
 My 1st Git Changes
 Now I've added more code to file1
+I am making more changes to file 1
+Let's add this cool stuff
